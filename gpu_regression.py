@@ -98,3 +98,6 @@ cp._default_memory_pool.free_all_blocks();
 #       'tval:    ', np.round(tval, 4), '\n\n',
 #       'r2:  ', np.round(r2, 4), '\t', 'mse:  ', np.round(mse, 4), '\t', 'n_obs:  ', SIZE, '\t', 'k:  ', VARS);
 
+
+
+
